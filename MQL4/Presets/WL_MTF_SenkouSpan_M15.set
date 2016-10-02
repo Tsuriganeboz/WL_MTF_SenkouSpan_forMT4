@@ -1,0 +1,7 @@
+TimeFrame=15
+TenkanSenPeriod=9
+KijunSenPeriod=26
+SenkouSpanPeriod=52
+ShiftPeriod=26
+ColorSenkouSpanA=11823615
+ColorSenkouSpanB=13959039
